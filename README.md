@@ -20,7 +20,55 @@
 
 <br/>
 
+## A brief summary of my professional life
 
+For the past 15 years, I have been a Full Stack developer, and since
+mid-2014, I developed my DevOps skills. I love traveling, rock
+music, and primarily enjoy life with my fiance.
+
+On a professional level, my experience goes from learning the programming basics on Fox 2.6 with my father to manage a physical data center on the local government and handle multi-cloud environments with Azure and Amazon AWS.
+
+I've also been developing my Full Stack skills with many languages such as PHP, Python, Javascript, C#, and a lot of well-known frameworks.
+
+I can say I have experience with other aspects of technology such as:
+
+* HTML and CSS for mocking UI's
+* Databases such as SQL Server, MongoDB, PostgreSQL, MySQL and its forks (mainly for querying, but I also did some installations and essential management)
+* Containers using AWS ECS, Docker, and Kubernetes for building Micro Services platforms.
+* Code Integration and Code Delivery using CircleCI and Jenkins.
+
+I am a constant and fast learner, always trying to improve myself, personally and professionally. Also, I can't see myself working without a Team, having one pushes me to be better and to teach others what I've learned, and that feels very rewarding. My native language is Spanish, and I'm also fluent in English (to read, write, and talk).
+
+## Projects i've worked on
+
+**Seats.io (Oct 2018 - Apr 2020)** *(FullStack)*
+: Saas for building Seating Charts, its main focus is Ticketing Platforms. I worked both in the Java-based core and Typescript based frontend, as well as all the integrations in a plethora of stacks (Java, JS, Node, PHP, Ruby, Python, React, Angular, IOS, Android)
+
+**Zentricx (Dec 2014 - Oct 2018)** *(DevOps - FullStack)*
+: Here I managed Azure and AWS clouds for the company's clients always focusing on Customer Experience. Some environments include Docker containers, Websites, Web Applications, Mobile Backends, Databases. I'm working on projects such as:
+
+* Insurance company web application on Azure.
+* Smart Cities platform with its infrastructure on AWS.
+* Managing infrastructure for a multinational that needs web sites and applications deployment automation, and ensuring security with OWASP compliance.
+
+My role also includes consulting for my co-workers. Allows me to be involved in a number of projects with different approaches and techs like:
+
+* .NET with Entity Framework for SQL Server
+* Docker
+* CRM's like Dynamics and SuiteCRM
+* Windows and Linux servers
+
+**Valley Works (Dec 2014 - Oct 2018)** *(DevOps - FullStack)*
+: I've was involved in the majority of the company's projects, for companies like:
+* Hamlet Local
+* Quadrant
+* FeeTrader
+* Plantbid
+* 3D Data
+* Parasail Health
+* Data Guardian Pro's
+
+My job is to adapt to the client's needs, can be Full Stack, Backend, Frontend or DevOps, or a mixture of them. I had the freedom to try new technologies and was able to leave my mark by improving the user experience in many cases, or by teaching my co-workers to do a better job.
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
