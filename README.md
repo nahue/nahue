@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rishav, a full-time senior software engineer 👨‍💻 working remotely since 2014 🚀</div>
 
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently working on a secret project.
 
 
 - 🌱 I’m currently learning Elasticsearch, Blitz.js and Svelte
