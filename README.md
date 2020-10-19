@@ -131,13 +131,10 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/nahue" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Beer-orange.svg?style=flat-square"
-                    align="center"
-                />
-            </a></div>
+            <a href="https://www.buymeacoffee.com/nahuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></div>
 <br />
+
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
