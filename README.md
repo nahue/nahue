@@ -3,7 +3,7 @@
 </div>
 
 
-### <div align="center">I'm Rishav, a full-time senior software engineer 👨‍💻 working remotely since 2014 🚀</div>
+### <div align="center">I'm Nahuel, a full-time senior software engineer 👨‍💻 working remotely since 2014 🚀. I create from small lambdas to full-blown web applications, always using well-tested cutting-edge technologies.</div>
 
 
 - 🔭 I’m currently working on a secret project.
@@ -19,6 +19,7 @@
 
 
 <br/>
+
 
 
 ## My Skill Set
