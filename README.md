@@ -1,10 +1,8 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<a href="https://app.daily.dev/strato1986"><img src="https://api.daily.dev/devcards/2eda405ca6a745a198c537911134a266.png?r=zr2" width="400" alt="Victor Nahuel Chaves's Dev Card"/></a>
 </div>
 
-
 ### <div align="center">I'm Nahuel, a full-time senior software engineer 👨‍💻 working remotely since 2014 🚀. I create from small lambdas to full-blown web applications, always using well-tested cutting-edge technologies.</div>
-
 
 - 🔭 I’m currently working on a secret project.
 
@@ -19,6 +17,8 @@
 
 
 <br/>
+
+
 
 ## A brief summary of my professional life
 
