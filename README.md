@@ -7,10 +7,10 @@
 - 🔭 I’m currently working on a secret project.
 
 
-- 🌱 I’m currently learning Elasticsearch, Blitz.js and Svelte
+- 🌱 I’m currently learning Elixir, Prisma and tRPC
 
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to MERN stack or JAM stack and related technologies
 
 
 - ⚡ Fun fact: I use spaces over tabs
