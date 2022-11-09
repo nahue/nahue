@@ -1,7 +1,3 @@
-<div align="center">
-<a href="https://app.daily.dev/strato1986"><img src="https://api.daily.dev/devcards/2eda405ca6a745a198c537911134a266.png?r=zr2" width="400" alt="Victor Nahuel Chaves's Dev Card"/></a>
-</div>
-
 ### <div align="center">I'm Nahuel, a full-time senior software engineer 👨‍💻 working remotely since 2014 🚀. I create from small lambdas to full-blown web applications, always using well-tested cutting-edge technologies.</div>
 
 - 🔭 I’m currently working on a secret project.
@@ -165,10 +161,6 @@ My job is to adapt to the client's needs, can be Full Stack, Backend, Frontend o
 <!-- BLOG-POST-LIST:START -->
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11124801423&cover_image=true&theme=default" /></div>
 
 <br/>
 
